@@ -8,22 +8,24 @@ I created this Tableau Project to Visualize Airbnb listings Data. Highlighting t
 ## Key features and Insights 
 
  **Price Distribution:** Interactive map showing price variations by state 
+ 
 **Availability trends:** Line Charts highlighting seasonal occupancy changes 
+
 **Host Analysis:** Comparison of single-property vs. multi-property hosts.
 
 
 ## Questions
-What is the average price per night across different neighbourhoods?
-How do property types affect pricing?
-Are there seasonal price fluctuations?
-Which neighbourhoods generate the highest revenue?
-Are there specific months with higher or lower occupancy rates?
+- What is the average price per night across different neighbourhoods?
+- How do property types affect pricing?
+- Are there seasonal price fluctuations?
+- Which neighbourhoods generate the highest revenue?
+- Are there specific months with higher or lower occupancy rates?
 
 ## Process
-Clean the data 
-Explored the data to understand its structure
-Decide which visualization will be best answer for my key questions
-Created each table 
-Merge all tables into one dashboard
-Analyse key findings
+- Clean the data 
+- Explored the data to understand its structure
+- Decide which visualization will be best answer for my key questions
+- Created each table 
+- Merge all tables into one dashboard
+- Analyse key findings
 
